@@ -71,12 +71,12 @@ def log_sel():
     if select == '1':
         menu()
     elif select == '2':
-        os.system('xdg-open https://youtu.be/7ey463HiVSA')
+        os.system('xdg-open https://youtube.com/channel/UC67mh3aIKRCqxcVjeRKlrfA')
         main()
     elif select == '0':
         os.system('exit')
     elif select == '3':
-        os.system('xdg-open https://youtube.com/channel/UCv3xnTA7veQe64UYUwDybEg')
+        os.system('xdg-open https://youtube.com/channel/UC67mh3aIKRCqxcVjeRKlrfA')
         main()
     else:
         print ''
